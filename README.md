@@ -1,3 +1,6 @@
+ORIGINAL SOURCE CODE
+https://github.com/OmarElGabry/chat.io
+
 ![Screenshot](https://raw.githubusercontent.com/OmarElGabry/chat.io/master/public/img/chat.io.gif)
 
 # chat.io
